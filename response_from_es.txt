@@ -1,0 +1,1 @@
+Time_taken for making queries with elastic search = 0.5539388656616211 milli seconds
